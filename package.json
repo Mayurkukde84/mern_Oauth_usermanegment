@@ -1,0 +1,20 @@
+{
+  "name": "mern_oauth_usermanegment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayurkukde84/mern_Oauth_usermanegment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayurkukde84/mern_Oauth_usermanegment/issues"
+  },
+  "homepage": "https://github.com/Mayurkukde84/mern_Oauth_usermanegment#readme"
+}
